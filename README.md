@@ -8,7 +8,7 @@ I've been learning web development for 6 years. I mostly use javascript to code 
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [kevinevraldo@gmail.com](mailto:kevinevraldo@gmail.com)
-* 🚀  I'm currently working on [Tokopedia](http://tokopedia.com)
+* 🚀  I'm currently working at [Julo](http://julo.co.id)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 
