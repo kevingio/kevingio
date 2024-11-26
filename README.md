@@ -4,7 +4,7 @@ Hi 👋 My name is Kevin Giovanni
 Web Developer
 -------------
 
-I've been learning web development for 6 years. I mostly use javascript to code with React and Vuejs. I also a backend developer for my personal projects using Laravel. I've experience working in E-Commerce, Enterprise Resource Planning (ERP), Point of Sales (POS), Solar Panel, and Software Agency.
+I've been learning web development for 8 years. I mostly use javascript to code with React and Vuejs. I also a backend developer for my personal projects using Laravel. I've experience working in E-Commerce, Enterprise Resource Planning (ERP), Point of Sales (POS), Solar Panel, and Software Agency.
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [kevinevraldo@gmail.com](mailto:kevinevraldo@gmail.com)
